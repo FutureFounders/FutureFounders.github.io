@@ -1049,36 +1049,36 @@ Services Style
 }
 
 .first-service .icon {
-  background-image: url(../images/service-icon-01.png);
+  background-image: url(../images/landscape);
 }
 
 .first-service:hover .icon {
-  background-image: url(../images/service-icon-hover-01.png);
+  background-image: url(../images/landscape.png);
 }
 
 .second-service .icon {
-  background-image: url(../images/service-icon-02.png);
+  background-image: url(../images/success.png);
 }
 
 .second-service:hover .icon {
-  background-image: url(../images/service-icon-hover-02.png);
+  background-image: url(../images/success.png);
 }
 
 
 .third-service .icon {
-  background-image: url(../images/service-icon-03.png);
+  background-image: url(../images/hard-work.png);
 }
 
 .third-service:hover .icon {
-  background-image: url(../images/service-icon-hover-03.png);
+  background-image: url(../images/hard-work.png);
 }
 
 .fourth-service .icon {
-  background-image: url(../images/service-icon-04.png);
+  background-image: url(../images/100-dollar-bill.png);
 }
 
 .fourth-service:hover .icon {
-  background-image: url(../images/service-icon-hover-04.png);
+  background-image: url(../images/100-dollar-bill.png);
 }
 
 .service-item:hover {
