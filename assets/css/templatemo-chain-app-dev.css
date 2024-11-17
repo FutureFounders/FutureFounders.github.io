@@ -1153,6 +1153,13 @@ About Us
   z-index: 1;
 }
 
+.rounded-image {
+  width: 600px; 
+  height: auto; 
+  border-radius: 20px; 
+  transition: transform 0.3s;
+}
+
 .about-us:after {
   background-image: url(../images/about-bg.jpg);
   width: 777px;
