@@ -127,7 +127,7 @@ p {
   font-size: 15px;
   line-height: 30px;
   font-weight: 300;
-  color: #afafaf;
+  color: #585858;
 }
 
 img {
@@ -1828,7 +1828,7 @@ a.btn_red {
   float: left;
   font-weight: bold;
   font-size: 16px;
-  color: #777;
+  color: #4b4949;
 }
 
 .social_login .social_box:hover {
@@ -1836,7 +1836,7 @@ a.btn_red {
 }
 
 .centeredText {
-  color: #afafaf;
+  color: #363636;
   text-align: center;
   margin: 20px 0;
   clear: both;
@@ -1874,7 +1874,7 @@ a.btn_red {
   width: 90%;
   padding: 10px;
   border: 1px solid #DDD;
-  color: #666;
+  color: #414040;
 }
 
 .user_login input[type="checkbox"] {
@@ -1922,7 +1922,7 @@ a.btn_red {
   width: 100%;
   padding: 10px;
   border: 1px solid #DDD;
-  color: #666;
+  color: #4e4e4e;
 }
 
 .user_register input[type="checkbox"] {
@@ -1991,7 +1991,7 @@ responsive
     margin-right: 0;
   }
   .main-banner .left-content p {
-    color: #afafaf;
+    color: #2d2d2d;
     margin-right: 0;
   }
   .main-banner .left-content .white-button a {
