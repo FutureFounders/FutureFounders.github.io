@@ -324,6 +324,22 @@ header
   transform: translateX(-50%);
 }
 
+.sendtoit {
+  background-color: #0047ff;
+  border: 1px solid #ffb700;
+  border-radius: 1px;
+  box-shadow: 0 4px 8px #ffb700;
+  padding: 10px;
+  max-width: auto;
+  text-align: center;
+}
+
+.sendtoit:hover {
+  background-color: #ffb700;
+  color: #000000;
+}
+
+
 .background-header .nav li:last-child a.active:after {
   background-color: transparent;
 }
